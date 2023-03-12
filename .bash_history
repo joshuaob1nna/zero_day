@@ -61,3 +61,14 @@ git commit -m "My first commit"
 git push
 git push --set-upstream origin master
 exit
+ls
+git status
+git sdd .
+git add .
+git commit -m 'My first commit'
+git push
+git push -origin master
+git push --set-upstream -origin master
+git push --set-upstream origin master
+git clone https//2~
+exit
