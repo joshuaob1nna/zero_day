@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1678662570,,"wq"
+|2,0,1678662720,,"wq"
 :qq
 |2,0,1678661984,,"qq"
 :zz
@@ -31,20 +31,36 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/0x00-vagrant/0-hello_ubuntu
-|4,48,1,4,1678662570,"~/0x00-vagrant/0-hello_ubuntu"
-'1  1  16  ~/0x00-vagrant/README.md
-|4,49,1,16,1678662157,"~/0x00-vagrant/README.md"
-'2  1  0  0x00-vagrant/README.md
-|4,50,1,0,1678662018,"0x00-vagrant/README.md"
+'0  1  0  ~/0x00-vagrant/0-hello_ubuntu
+|4,48,1,0,1678662720,"~/0x00-vagrant/0-hello_ubuntu"
+'1  1  4  ~/0x00-vagrant/0-hello_ubuntu
+|4,49,1,4,1678662570,"~/0x00-vagrant/0-hello_ubuntu"
+'2  1  16  ~/0x00-vagrant/README.md
+|4,50,1,16,1678662157,"~/0x00-vagrant/README.md"
+'3  1  0  0x00-vagrant/README.md
+|4,51,1,0,1678662018,"0x00-vagrant/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/0x00-vagrant/0-hello_ubuntu
+|4,39,1,0,1678662720,"~/0x00-vagrant/0-hello_ubuntu"
 -'  1  4  ~/0x00-vagrant/0-hello_ubuntu
 |4,39,1,4,1678662570,"~/0x00-vagrant/0-hello_ubuntu"
 -'  1  16  ~/0x00-vagrant/README.md
 |4,39,1,16,1678662157,"~/0x00-vagrant/README.md"
 -'  1  16  ~/0x00-vagrant/README.md
 |4,39,1,16,1678662157,"~/0x00-vagrant/README.md"
+-'  1  16  ~/0x00-vagrant/README.md
+|4,39,1,16,1678662157,"~/0x00-vagrant/README.md"
+-'  1  16  ~/0x00-vagrant/README.md
+|4,39,1,16,1678662157,"~/0x00-vagrant/README.md"
+-'  1  0  0x00-vagrant/README.md
+|4,39,1,0,1678662018,"0x00-vagrant/README.md"
+-'  1  0  0x00-vagrant/README.md
+|4,39,1,0,1678662018,"0x00-vagrant/README.md"
+-'  1  0  0x00-vagrant/README.md
+|4,39,1,0,1678662018,"0x00-vagrant/README.md"
+-'  1  0  0x00-vagrant/README.md
+|4,39,1,0,1678662018,"0x00-vagrant/README.md"
 -'  1  0  0x00-vagrant/README.md
 |4,39,1,0,1678662018,"0x00-vagrant/README.md"
 -'  1  0  0x00-vagrant/README.md
@@ -57,11 +73,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/0x00-vagrant/0-hello_ubuntu
-	*	1678662567	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+	*	1678662716	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/0x00-vagrant/README.md
 	*	1678662152	0
