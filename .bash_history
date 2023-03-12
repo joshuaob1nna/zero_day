@@ -79,3 +79,26 @@ git status
 git commit -m 'My first commit'
 git push 
 git push --set-upstream origin master
+git
+git --version
+clar
+git init
+git add .
+git status
+git commit -m "My first commit"
+git status
+clear
+git status
+git push 
+git push origin master
+git config user.name
+git config --global user.name "joshuaob1nnna"
+git config user.name
+git push origin master
+unamve
+uname
+ls
+git pull
+git pull origin master
+ls
+vi 0x00-vagrant/README.md
