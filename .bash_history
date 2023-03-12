@@ -72,3 +72,10 @@ git push --set-upstream -origin master
 git push --set-upstream origin master
 git clone https//2~
 exit
+ls
+git status
+git add .
+git status
+git commit -m 'My first commit'
+git push 
+git push --set-upstream origin master
